@@ -1,1 +1,1 @@
-A page template built purely with HTML & Bootstrap 
+A landing page template built purely with HTML & Bootstrap 
